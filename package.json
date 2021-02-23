@@ -1,0 +1,17 @@
+{
+  "name": "somefakething",
+  "version": "1.0.0",
+  "description": "Fake giveaway botty",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "emre cebeci",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table3": "^0.6.0",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "quick.db": "^7.1.3"
+  }
+}
