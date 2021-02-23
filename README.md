@@ -46,3 +46,4 @@ If there is a giveaway data in database, it just sends a message with random fak
 ---
 
 All dates are in UTC(+0/-0) format.
+**Also, never let Fake Winner list with 1 guy, add at least 2 guy otherwise it will bug.**
